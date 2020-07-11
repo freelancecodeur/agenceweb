@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <url>
+      <loc>https://freelancecodeur.github.io/agenceweb/</loc>
+      <lastmod>2020-07-07</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://freelancecodeur.github.io/agenceweb/page2.html</loc>
+      <lastmod>2020-07-07</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://freelancecodeur.github.io/agenceweb/index.html</loc>
+      <lastmod>2020-07-07</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+</urlset>
