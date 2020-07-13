@@ -15,6 +15,7 @@ ajout d'une classe afin de rendre les images responsive
     max-width: 100%;
     height: auto;
     display: block;
+    text-align: center;
 
 }
 
